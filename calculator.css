@@ -1,0 +1,55 @@
+body {
+    background-image: linear-gradient(to top, #3767de, #47a1ba, #eda46f, #d6275b);
+}
+
+.col-md-6 {
+    margin-top: 170px !important;
+    background-image: linear-gradient(to right, #f03b18, #c1e841, #eda46f);
+}
+
+input[type=button] {
+    width: 100%;
+
+}
+
+input[type=text] {
+    width: 100%;
+    background-image: linear-gradient(to right, #f03b18, #c1e841, #eda46f);
+    color: white;
+    font-weight: bolder;
+    border: 3px solid;
+
+}
+
+.color {
+    border-radius: 5px;
+    color: #090a47;
+    width: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input[type=button] {
+    background-image: linear-gradient(to right, #f03b18, #c1e841, #eda46f);
+    color: white;
+    font-weight: bold;
+    border: 3px solid;
+
+}
+
+h1 {
+    font-weight: bold;
+    margin-top: 15px;
+    color: blue;
+}
+
+
+.container {
+    max-width: 350px;
+    margin: 10vh auto 0 auto;
+}
+
+input[type=button]:hover {
+    background-image: linear-gradient(to right, #f03b18, #c1e841, #eda46f);
+
+}
